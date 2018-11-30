@@ -1,0 +1,15 @@
+{
+    "name": "composer-repos/composer-repos",
+    "description": "This is my  description",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+    
+    },
+    "autoload":{
+    	"psr-4":{
+    		"jayce\\yin\\":"src/jayce/yin"
+    	}
+    }
+}
